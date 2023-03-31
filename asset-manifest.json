@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jdavidson974.github.io-react-moovies-prod-v2/static/css/main.42184ef9.css",
+    "main.js": "/Jdavidson974.github.io-react-moovies-prod-v2/static/js/main.cdc06335.js",
+    "index.html": "/Jdavidson974.github.io-react-moovies-prod-v2/index.html",
+    "main.42184ef9.css.map": "/Jdavidson974.github.io-react-moovies-prod-v2/static/css/main.42184ef9.css.map",
+    "main.cdc06335.js.map": "/Jdavidson974.github.io-react-moovies-prod-v2/static/js/main.cdc06335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42184ef9.css",
+    "static/js/main.cdc06335.js"
+  ]
+}
